@@ -1,0 +1,15 @@
+D:\csharp-studying\Day7\bin\Debug\net10.0\Day7.exe
+D:\csharp-studying\Day7\bin\Debug\net10.0\Day7.deps.json
+D:\csharp-studying\Day7\bin\Debug\net10.0\Day7.runtimeconfig.json
+D:\csharp-studying\Day7\bin\Debug\net10.0\Day7.dll
+D:\csharp-studying\Day7\bin\Debug\net10.0\Day7.pdb
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.AssemblyInfoInputs.cache
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.AssemblyInfo.cs
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.csproj.CoreCompileInputs.cache
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.sourcelink.json
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.dll
+D:\csharp-studying\Day7\obj\Debug\net10.0\refint\Day7.dll
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.pdb
+D:\csharp-studying\Day7\obj\Debug\net10.0\Day7.genruntimeconfig.cache
+D:\csharp-studying\Day7\obj\Debug\net10.0\ref\Day7.dll
